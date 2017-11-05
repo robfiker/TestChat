@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "906617694117",
+    "firebase_url": "https://testchat-19c06.firebaseio.com",
+    "project_id": "testchat-19c06",
+    "storage_bucket": "testchat-19c06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906617694117:android:0a9cee968e55f9c9",
+        "android_client_info": {
+          "package_name": "com.fiker.testchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906617694117-98hf7vrk8679fvl083pp4ue0bkn5678b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrnR4iR8zGa0DG6wlZWRaanr53f9JLqss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906617694117:android:567f3968cc7457e3",
+        "android_client_info": {
+          "package_name": "fiker.testchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906617694117-98hf7vrk8679fvl083pp4ue0bkn5678b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrnR4iR8zGa0DG6wlZWRaanr53f9JLqss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
